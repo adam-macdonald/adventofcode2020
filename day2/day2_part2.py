@@ -18,5 +18,4 @@ with open("input.txt", "r") as file:
         if password[pos_b - 1] == requirement:
             i += 1
 
-
     print(str(i))
